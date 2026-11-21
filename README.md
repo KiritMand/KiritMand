@@ -1,21 +1,32 @@
 # Hi, I'm Kirit 👋
 
-I'm into **design verification (DV)**: building testbenches that find the bugs hiding in digital hardware before they reach silicon.
+I'm a Computer Engineering student at McMaster who likes understanding how
+things work and proving that they do, from the logic inside a chip to the
+software around it.
 
-## 🔬 What I'm working on
-- Verifying an **asynchronous FIFO** in [Async-FIFO-DV-Project](https://github.com/KiritMand/Async-FIFO-DV-Project), covering the testbench, scoreboard, assertions and functional coverage
-- Getting sharper at **SystemVerilog, UVM and constrained-random verification**
+I spent 16 months as an ASIC design verification intern at Synopsys, building
+UVM testbenches for a UALink controller, driving coverage to closure, and
+automating the reporting my team relied on. I also ran a workshop on bringing
+AI tools into everyday engineering workflows.
 
-## 🤝 Looking for
-I'm looking to take on more DV projects, especially:
-- Clock-domain-crossing designs, FIFOs and bus protocols (AXI, APB, SPI)
-- Reusable UVM testbenches and verification components
-- SVA assertions and coverage-driven test plans
-- Open-source RTL that needs a solid testbench, so feel free to reach out
+I'm focused on **design verification** next, and I'm just as happy building software.
 
-## 🧰 Toolbox
-`SystemVerilog` `UVM` `SVA` `Verilog` `Python` `Git` `[simulator, e.g. Questa / VCS / Verilator]`
+## 🔭 What I'm working on
+- Async FIFO verification project (repo coming soon)
+- Going deeper on coverage-driven verification and SystemVerilog assertions
+- Web and data projects on the side
 
-## 📫 Get in touch
-- LinkedIn: https://www.linkedin.com/in/kiritmand/
-- Email: mandk1@mcmaster.ca
+## 🛠️ Toolbox
+**Verification:** UVM · SystemVerilog · SVA · coverage closure · VCS · Verdi · Questa
+**Software & scripting:** Python · C · C++ · TCL · SQL · Git · Linux
+
+## 🌱 Other things I've built
+- A Pong game running on an FPGA (Verilog, VGA, UART)
+- An FPGA image decompressor (SystemVerilog)
+- Robot controls for McMaster RoboMaster (C, PID control, Kalman filtering)
+
+## 💼 Open to
+Design verification, hardware, and software engineering roles, plus any
+project that's interesting to build.
+
+📫 [linkedin.com/in/kiritmand](https://linkedin.com/in/kiritmand)
